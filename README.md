@@ -1,53 +1,53 @@
-👋 Hi, I'm Ganiha Siddiqui
+# 👋 Hi, I'm Ganiha Siddiqui
 
-Aspiring **Cyber Security Analyst**  
-Currently learning **Network Security & Digital Forensics**
+**Aspiring Cloud & DevOps Engineer | AWS | DevSecOps**
 
----
+I'm building my skills in cloud computing, AWS services, DevOps practices, and infrastructure automation. I enjoy learning through hands-on projects and exploring ways to build scalable, reliable, and secure cloud solutions.
 
-## 🚀 Skills
+## 🛠️ Technical Skills
 
-🔐 Cyber Security Basics  
-- Network Fundamentals (TCP/IP, Ports, Protocols)  
-- Packet Analysis (Basic)  
-- Traffic Monitoring  
+**Cloud Computing**
+- Amazon Web Services (AWS)
+- Cloud Infrastructure Fundamentals
+- Serverless Architecture
 
-💻 Tools  
-- Wireshark (Basic)  
-- Scapy  
-- Git & GitHub  
-- VS Code  
+**DevOps & Tools**
+- Git & GitHub
+- Linux
+- Visual Studio Code
+- Infrastructure as Code (Learning)
 
-🐍 Programming  
-- Python (Basic - Networking Scripts)  
+**Programming & Development**
+- Python (Basics)
+- HTML & CSS
 
----
+## 🚀 Projects
 
-## 📂 Projects
+### Serverless CRUD API on AWS
+Built a serverless Task Management API supporting Create, Read, Update, and Delete operations using AWS services.
 
-🔹 Network Sniffer (Python + Scapy)  
-- Captures live packets  
-- Extracts IP, protocol & port info  
-  
+**Focus Areas:** Serverless Computing, API Development, Cloud Architecture
 
----
+### AWS Cloud Security Architecture
+Exploring AWS security controls, cloud infrastructure configuration, access management, and monitoring.
+
+**Focus Areas:** AWS, Cloud Security, Infrastructure as Code
 
 ## 📚 Currently Learning
 
-- Python for Cyber Security  
-- Advanced Packet Analysis  
-- Network Security Concepts  
-- Linux Basics  
+- AWS Cloud Services
+- DevOps Fundamentals
+- CI/CD Pipelines
+- Infrastructure as Code
+- Docker & Containerization
+- DevSecOps Practices
 
----
+## 🎯 Career Goals
 
-## 🎯 Goals
-
-- Build real-world cyber security tools  
-- Strengthen practical skills in network analysis  
-- Become a Cyber Security Analyst  
-
----
+- Build practical AWS and DevOps projects.
+- Develop skills in cloud infrastructure and automation.
+- Learn to integrate security into CI/CD pipelines.
+- Work towards a career in Cloud Engineering and DevSecOps.
 
 ## 📫 Connect With Me
 
@@ -56,4 +56,4 @@ Currently learning **Network Security & Digital Forensics**
 
 ---
 
-⭐ Learning by building practical cyber security projects
+⭐ Learning by building practical projects
